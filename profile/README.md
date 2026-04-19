@@ -105,5 +105,4 @@ This public `.github` repository is aligned with **Apache License 2.0**.
 **Frankfurt am Main, Germany**
 
 ## References
-
 [1]: https://opensource.org/license/apache-2-0 "Open Source Initiative - Apache License 2.0"
